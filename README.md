@@ -77,6 +77,7 @@ Comparação entre tipos de cobrança:
 ---
 
 ## 🖼️ Preview do Dashboard
+<img width="1469" height="841" alt="Dashbboard" src="https://github.com/user-attachments/assets/b7f2ea6d-0634-44ef-9042-5a4909141c6d" />
 
 
 
